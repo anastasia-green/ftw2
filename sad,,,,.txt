@@ -1,0 +1,49 @@
+unused junk............
+
+Inventory<br>
+
+
+		do the randomizer junk for the cats and the snakes
+		
+		//It's truly the greatest thing anyone will ever witness in their entire lives. It's really something. 
+		//You're almost jealous of specators, because they have the memory of this day seared in their minds forever. 
+		
+		
+		"assassin1" => [
+		"name" => "AMBUSH",
+		"1" => "assassin2",
+		"2" => "assassin2",
+		"3" => "assassin2",
+		"4" => "assassin2",
+		"text" => "You begin to head over to the capital building when suddenly...you hear a sound behind you. You peer behind you and see rustling in the bushes. 
+		It was just as you suspected. The Evil Memelord sent an assassin to off you before you could reach the capital building. 
+		What a coward. But you can no doubt deal with whatever terrible meme that has been sent your way."
+		],
+		
+		//do assassin stuff
+		
+		//replace RMONEY with dat boi
+		
+		
+		
+		
+		"north4" => [
+		"name" => "OUTSIDE",
+		"1" => "shop",
+		"2" => "captial1",
+		"text" => "Upon gazing on the massive building, you get a bit apprehensive. Perhaps you meager skills won't be enough to defeat the Evil Memelord. 
+		And you still have some money left. Maybe you should visit the shop first, to get a few supplies. 
+		Enter 1 to go to the shop, and enter 2 to go into the capital building to FIGHT THE EVIL MEMELORD."
+		],
+		"shop" => [
+		"name" => "SHOP",
+		"text" => "You decide to visit a shop before entering the capital. You go over to the nearest shop and go inside. It's full of many items, most of them useless to you. 
+		You ask the merchant for something that would help you on your quest. The merchant says that perhaps you could use a sword. You need a means of attack, after all. 
+		Or, maybe a shield? You could never have too much defense. Or perhaps, a secret code? You never know when something like that could come in handy."
+		//do the money thing
+		],
+		
+		//do the shop thing
+		
+		
+		
